@@ -1,0 +1,8 @@
+{
+  "name": "honeycomb-scrapy",
+  "version": "0.1.0",
+  "description": "node scrapy",
+  "main": "app.js",
+  "author": "Tomas",
+  "license": "MIT"
+}
